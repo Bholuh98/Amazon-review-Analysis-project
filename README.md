@@ -1,2 +1,10 @@
 # Amazon-review-Analysis-project
-My first project Assignment while taking Data Analysis class with Incubator Hub
+
+My first project Assignment from my Data Analysis Class with Incubator Hub.
+
+I have learnt so many things from Ms Excel and now to my portfolio building.
+
+## Project Topic : HR Analysis
+
+### Project Overview 
+This Data analysis projects aims to generate insights into the Gender inequality issues going on in Palmoria Group. Through this analysis, enough information  will be gathered and this  will be used by   the management to address the  Gender issues in order to protect the company image and reputation.
